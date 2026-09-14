@@ -1,0 +1,8 @@
+/.venv/
+/.scratch/
+/dist/
+/notes
+__pycache__/
+*.py[cod]
+.godot/
+.DS_Store

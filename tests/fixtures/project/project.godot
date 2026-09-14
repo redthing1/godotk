@@ -1,0 +1,15 @@
+config_version=5
+
+[application]
+config/name="GodotK integration fixture"
+run/main_scene="res://main.tscn"
+run/main_loop_type="FixtureLoop"
+
+[autoload]
+FixtureAutoload="*res://autoload.gd"
+
+[rendering]
+renderer/rendering_method="gl_compatibility"
+
+[debug]
+file_logging/enable_file_logging=false
